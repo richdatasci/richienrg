@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @richienrg
 - 👀 I’m interested in Physics & Data Science
 - 🌱 I’m currently learning python & R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on pretty much anything! 
+- 📫 How to reach me drop me an email or message. 
 
 <!---
 richienrg/richienrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
