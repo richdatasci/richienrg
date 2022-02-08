@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richienrg
 - 👀 I’m interested in Physics & Data Science
-- 🌱 I’m currently learning python & R
+- 🌱 I’m currently improving in Python for Data Science.  
 - 💞️ I’m looking to collaborate on pretty much anything! 
 - 📫 How to reach me drop me an email or message. 
 
