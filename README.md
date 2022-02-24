@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richienrg
-- 👀 I’m interested in Physics & Data Science
+- 👀 I’m interested in Data Science & Python. 
 - 🌱 I’m currently improving in Python for Data Science.  
 - 💞️ I’m looking to collaborate on pretty much anything! 
 - 📫 How to reach me drop me an email or message. 
