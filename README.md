@@ -3,7 +3,7 @@
 - 🌱 I’m currently improving in Python for Data Science.  
 - 💞️ I’m looking to collaborate on pretty much anything! 
 - 📫 How to reach me drop me an email or message.
-- A lot of my work consists of extremely sensitive data, so I am uploading new projects to illustrate my skills.  
+- A lot of my work consists of extremely sensitive data, so I am uploading non-work projects to illustrate my skills.  
 
 <!---
 richienrg/richienrg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
